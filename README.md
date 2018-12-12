@@ -1,3 +1,7 @@
+# fixed version of dynamind of 4th April 2017
+
+
+
 # Getting Started
 
 _This assumes you have Docker installed and the Docker host IP is 127.0.0.1. If you use a different IP, consider find/replace across the entire repository._
